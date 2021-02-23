@@ -1,3 +1,4 @@
 Project Homework for Algorthims and Grahps course from CVUT FIT.
 
-The problem is attached in html file and solution is in solution.cpp.
+The problem is attached in html file (https://github.com/baatybek/AG1-Graphs/blob/master/problem-description.html) and 
+solution is in solution.cpp.
